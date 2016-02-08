@@ -1,0 +1,1 @@
+docker run -d --name es -p 9200:9200 -v data:/usr/share/elasticsearch/data elasticsearch
